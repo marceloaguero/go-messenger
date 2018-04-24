@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM alpine
 
 ADD ./go-auth /bin/go-auth
 
